@@ -5,5 +5,7 @@
 </a> </li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1PY_KDsUVcMtn7QEfB3D9Lm3kaIVVM_GD/edit?usp=drive_link&ouid=114163468163669774738&rtpof=true&sd=true">Issues через Youtrack
 </a> </li>
+<li> <a href="https://drive.google.com/file/d/1YnOFRhQwh-zm7yA1G8cQSHzCj6CpHtxV/view?usp=drive_link">Перехватываем и изменяем трафик на ноутбуке
+</a> </li>
 </div>
 
